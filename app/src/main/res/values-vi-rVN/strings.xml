@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">demoLanguageApp</string>
+    <string name="hello">Xin chào</string>
+    <string name="bye">Tạm biệt</string>
+    <string name="language_VN">Tiếng Việt</string>
+    <string name="language_EN">Tiếng Anh</string>
+</resources>
